@@ -1,0 +1,30 @@
+h1 {
+	color: purple;
+	text-align: center;
+}
+
+h3 {
+	color:purple;
+	text-align: center ;
+}
+
+p {
+	color:red;
+	text-align: center;
+}
+
+#box-one {
+	padding: 10px;
+	border-image-width: 10px;
+}
+
+#box-two {
+	background-color: purple;
+	padding: 10px;
+}
+
+img.resize{
+   max-width:15%;
+   max-height:15%;
+   float: center;
+}
